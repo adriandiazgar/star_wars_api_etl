@@ -1,0 +1,7 @@
+-r requirements.txt
+flake8
+flake8-colors
+mock
+pytest
+pytest-cov
+requests-mock
